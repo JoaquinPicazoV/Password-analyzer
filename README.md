@@ -12,7 +12,8 @@ A tool to evaluate password strength (mathematical entropy) and verify if the pa
 
 1. Clone the repository
    ```bash
-
+   git clone https://github.com/JoaquinPicazoV/Password-analyzer.git
+   cd Password-analyzer
    ```
 
 2. Run the script
